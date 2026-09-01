@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "grassmann-distribution"
+version = "0.1.0"
+description = "A Python implementation of the multivariate binary probability distribution based on the Grassmann formalism."
+readme = "README.md"
+requires-python = ">=3.10"
+
+dependencies = [
+   "numpy",
+   "scipy",
+   "jax",
+   "scikit-learn",
+]
+
+[project.optional-dependencies]
+plot = [
+   "matplotlib",
+   "seaborn",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
