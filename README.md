@@ -77,8 +77,8 @@ plt.show()
 
 ## References
 
-[1] T. Arai, Multivariate binary probability distribution in the Grassmann formalism, Physical Review E, 103(6), 062104 (2021), [https://doi.org/10.1103/PhysRevE.103.062104](https://doi.org/10.1103/PhysRevE.103.062104), [arXiv:2009.08482v2 [stat.ME]](https://arxiv.org/abs/2009.08482).  
+[1] T. Arai, Multivariate binary probability distribution in the Grassmann formalism, Physical Review E, 103(6), 062104 (2021), [https://doi.org/10.1103/PhysRevE.103.062104](https://doi.org/10.1103/PhysRevE.103.062104), [arXiv:2009.08482 [stat.ME]](https://arxiv.org/abs/2009.08482).  
 
-[2] T. Arai, A canonical probability distribution for a mixture of continuous and binary random variables, Physica Scripta, 100(11), 115219 (2025), [https://doi.org/10.1088/1402-4896/adfb07](https://doi.org/10.1088/1402-4896/adfb07), [arXiv:2209.12147v1 [stat.ME]](https://arxiv.org/abs/2209.12147v1).  
+[2] T. Arai, A canonical probability distribution for a mixture of continuous and binary random variables, Physica Scripta, 100(11), 115219 (2025), [https://doi.org/10.1088/1402-4896/adfb07](https://doi.org/10.1088/1402-4896/adfb07), [arXiv:2209.12147 [stat.ME]](https://arxiv.org/abs/2209.12147).  
 
 [3] T. Arai, Identifiable factor analysis for mixed continuous and binary variables based on the Gaussian-Grassmann distribution, [arXiv:2512.10804 [stat.ME]](https://arxiv.org/abs/2512.10804) (2025).  
